@@ -9,7 +9,7 @@ from PIL import Image, ImageTk
 import csv
 
 # Default weight file path
-DEFAULT_WEIGHT_FILE = r"C:\Users\jigar\runs\detect\train2\weights\best.pt"
+DEFAULT_WEIGHT_FILE = r"enter path to your yolo model here"
 
 # Global variables to store selected paths and mode
 media_path = None
